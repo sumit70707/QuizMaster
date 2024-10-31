@@ -69,4 +69,4 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/QuizMaster.git
+   git clone https://github.com/sumit70707/QuizMaster.git
